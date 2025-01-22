@@ -1,25 +1,29 @@
 <h3><a target="_blank" href="https://risecommerce.com/">RiseCommerce</a></h3>
 <a target="_blank" href="https://risecommerce.com/"><img width="100%" height="208" src="https://risecommerce.com/media/wysiwyg/logowithtext.png"></a>
 
-##Risecommerce_DeleteOrders Extension
+## Risecommerce Delete Orders Extension
 
 <a href="https://risecommerce.com/magento2-delete-order.html"><img width="190" height="70" src="https://risecommerce.com/media/wysiwyg/risedownload.png"></a>
 
 
-"Risecommerce_DeleteOrders" extension. This extension is designed for eCommerce stores, allowing users to delete test or ad-hoc orders, invoices, shipments, and credit memos. Additionally, it offers the convenience of deleting these elements either one-by-one or in bulk with a single click, specifically for orders with certain allowed statuses.
+[Magento 2 Delete Order Free Extension](https://risecommerce.com/store/magento2-delete-order.html) extension. This extension is designed for eCommerce stores, allowing users to delete test or ad-hoc orders, invoices, shipments, and credit memos. Additionally, it offers the convenience of deleting these elements either one-by-one or in bulk with a single click, specifically for orders with certain allowed statuses.
 
 The extension is accessible in both the Order Detail Page and the Order Grid, making it more user-friendly and providing flexibility for managing and cleaning up orders.
 
-If you have any questions about using or configuring this extension, you may want to refer to the documentation or support resources provided by Risecommerce. Additionally, if you have specific queries or issues, feel free to ask for assistance!
+For more details about this extension, visit the [Magento 2 Delete Order Free Extension](https://risecommerce.com/store/magento2-delete-order.html).
+
+If you're looking to enhance your Magento store further, consider hiring a [dedicated Magento developer](https://risecommerce.com/hire-dedicated-magento-developer.html).
+
+For support or inquiries, please visit our [contact page](https://risecommerce.com/contact).
 
  <a target="_blank" href="https://demo.risecommerce.com/"> <img width="190" height="70" src="https://risecommerce.com/media/wysiwyg/frontend-demo.png"> </a>
  <a target="_blank" href="https://demo.risecommerce.com/admindemo"> <img width="190" height="70" src="https://risecommerce.com/media/wysiwyg/Backend-Demo.png"> </a>
 
 
-##Support: 
+## Support: 
 version - 2.3.*,2.4.*
 
-##How to install Extension
+## How to install Extension
 
 <h4>Method I:</h4>
 <p>1. Download the archive file.</p>
